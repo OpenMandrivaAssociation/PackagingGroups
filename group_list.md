@@ -1,4 +1,4 @@
-# OpenMandriva RPM Packge Group List
+# OpenMandriva RPM Package Group List
 
 Creation Date: 2025-03-24
 
@@ -60,8 +60,6 @@ Desktop/COSMIC
 
 Desktop/WM
 
-development
-
 Development
 
 Development/Audio
@@ -105,14 +103,6 @@ Development/Java
 Development/KDE and Qt
 
 Development/Kernel
-
-Development/Languages
-
-Development/Languages/C and C++
-
-Development/Languages/Golang
-
-Development/Languages/Python
 
 Development/Libraries
 
@@ -285,8 +275,6 @@ Hyprland/Wayland
 Icons/Cosmic
 
 Internationalization
-
-internet
 
 Internet
 
@@ -552,11 +540,7 @@ Toys
 
 Unspecified
 
-User interface/Desktops
-
 User Interface/Desktops
-
-Utilites
 
 Utilities
 
