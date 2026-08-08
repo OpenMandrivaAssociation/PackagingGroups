@@ -556,8 +556,6 @@ User interface/Desktops
 
 User Interface/Desktops
 
-Utilites
-
 Utilities
 
 Utility
